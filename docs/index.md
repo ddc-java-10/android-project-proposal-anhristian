@@ -1,12 +1,12 @@
 ---
-title: Play and learn with Me
-description: Practicing numbers and having fun with tracing lines
+title: **Play and learn with Me**
+description: *Practicing numbers and having fun with tracing lines*
 layout: default
 ---
 
 ## Summary
 
-_Play and learn with Me_ is an educational safe Android app that could be used by 4-6 years old children to practice their knowledge of the numbers in an interactive way. This app assumes that the child knows already some numbers and it is designed to strengthen their knowledge. The tracing lines activities will develop his or her ability to follow the dotted line and stay on track.  
+**Play and learn with Me** is an educational safe Android app that could be used by 4-6 years old children to practice their knowledge of the numbers in an interactive way. This app assumes that the child knows already some numbers and it is designed to strengthen their knowledge. The tracing lines activities will develop his or her ability to follow the dotted line and stay on track.  
 
 ## Intended users
 
@@ -20,11 +20,11 @@ _Play and learn with Me_ is an educational safe Android app that could be used b
 
 ## Functionality
 
-* The app will appear divided into two options _NUMBERS_ and _MAZE AND TRACING LINES_. Selecting one option inside will be the button start that will give the first activity where will be an example already solved to show the child how to do.
+* The app will appear divided into two options **NUMBERS** and **MAZE AND TRACING LINES**. Selecting one option inside will be the button start that will give the first activity where will be an example already solved to show the child how to do.
 
-* The user will have the option to play with _NUMBERS_. This section will contain different activities with numbers from 1-20. Some examples of activities are matching the number with the right picture; dragging with the finger the missing number and placing it in the right place (under an image of a train with wagons where each wagon has a number but there are empty wagons, too). 
+* The user will have the option to play with **NUMBERS**. This section will contain different activities with numbers from 1-20. Some examples of activities are matching the number with the right picture; dragging with the finger the missing number and placing it in the right place (under an image of a train with wagons where each wagon has a number but there are empty wagons, too). 
 
-* The user will have another option - _MAZE AND TRACING LINES_. This section will contain simple examples of maze or tracing lines. This could be represented e.g. as a wavy line where the child with the finger will drag a car from one point to the other. 
+* The user will have another option - **MAZE AND TRACING LINES**. This section will contain simple examples of maze or tracing lines. This could be represented e.g. as a wavy line where the child with the finger will drag a car from one point to the other. 
 
 
 ## Persistent data
