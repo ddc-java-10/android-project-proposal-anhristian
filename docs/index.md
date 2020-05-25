@@ -1,6 +1,6 @@
 ---
-title: **Play and learn with Me**
-description: *Practicing numbers and having fun with tracing lines*
+title: Play and learn with Me
+description: Practicing numbers and having fun with tracing lines
 layout: default
 ---
 
