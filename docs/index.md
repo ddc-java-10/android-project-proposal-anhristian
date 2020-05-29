@@ -20,9 +20,9 @@ layout: default
 
 ## Functionality
 
-* The app will appear divided into two options **NUMBERS** and **MAZE AND TRACING LINES**. Selecting one option inside will be the button start that will give the first activity where will be an example already solved to show the child how to do.
+* The app will appear divided into two options **NUMBERS** and **MAZE AND TRACING LINES**, which could be selected by tappind on them. Inside the seleted option will be a start activity button. Each activity will have an example already solved to show the child how to work.
 
-* The user will have the option to play with **NUMBERS**. This section will contain different activities with numbers from 1-20. Some examples of activities are matching the number with the right picture; dragging with the finger the missing number and placing it in the right place (under an image of a train with wagons where each wagon has a number but there are empty wagons, too). 
+* The user will have the option to play with **NUMBERS**. This section will contain different activities with numbers from 1-20. Some examples of activities could be matching the number with the right picture; dragging with the finger the missing number and placing it in the right place. This could be and example of an easy visualization, for example: an image of a train with wagons where each wagon has a number but there are empty wagons, too where the child will drag the corect number. 
 
 * The user will have another option - **MAZE AND TRACING LINES**. This section will contain simple examples of maze or tracing lines. This could be represented e.g. as a wavy line where the child with the finger will drag a car from one point to the other. 
 
@@ -33,8 +33,9 @@ layout: default
     
 ## Device/external services
 
-Google Sign In
+* Google Sign In
+* Device's speaker
 
 ## Stretch goals/possible enhancements 
 
-Not at this moment. 
+Being kind of an app with tutorial content will be useful to add Text To Speech (TTS) feature to it. 
