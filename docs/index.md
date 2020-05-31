@@ -20,8 +20,7 @@ layout: default
 
 ## Functionality
 
-The user will have the option to do different activities with **NUMBERS**. He or she could scroll them and choose the one he or she wants to do. Each activity will have an example already solved to show the child how to work. Some examples of activities could be matching the number with the right picture; dragging with the finger the missing number and placing it in the right place. This could be an example of an easy visualization: an image of a train with wagons where each wagon has a number but there are empty wagons, too where the child will drag the correct number. See the example ![Missing number](https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/share_link_image_large/public/screenshots/csm-app/hooplakidz123-ss1.jpg?itok=jlD4YSPl).
- 
+The user will have the option to do different activities with **NUMBERS**. He or she could scroll them and choose the one he or she wants to do. Each activity will have an example already solved to show the child how to work. Some examples of activities could be matching the number with the right picture; dragging with the finger the missing number and placing it in the right place. This could be an example of an easy visualization: an image of a train with wagons where each wagon has a number but there are empty wagons, too where the child will drag the correct number.
 
 
 ## Persistent data
@@ -38,7 +37,6 @@ The user will have the option to do different activities with **NUMBERS**. He or
 
 * Being kind of an app with tutorial content will be useful to add Text To Speech (TTS) feature to it, which will say back to the child the number he selected. Additionaly, the voiced instructions could tell what is supposed to be done in that activity.
 
-* An addtional section could be added with simple examples of tracing lines. This could be represented e.g. as a wavy line where the child with the finger will drag a car from one point to the other. See the example ![car and trafic lights](https://image.freepik.com/free-vector/education-game-preschool-kids_122784-82.jpg).
+* An addtional activity section could be added with simple examples of tracing lines. This could be represented e.g. as a wavy line where the child with the finger will drag a car from one point to the other.
 
-* A point of thinking is if the activities will appear randomly or the user will choose them.
 
